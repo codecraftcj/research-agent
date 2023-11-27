@@ -1,6 +1,9 @@
-- get topic
+- gather document prompt and set output deliverables
+
 - research internet about topic check reliable sources
-- check requirements
+    LangChain to search internet? https://github.com/assafelovic/gpt-researcher?ref=blog.langchain.dev
+    
+
 - create outline of structure for the output
 - create research paper from sources
 - from research paper create ppt
